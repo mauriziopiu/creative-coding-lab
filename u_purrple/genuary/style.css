@@ -1,0 +1,27 @@
+html {
+	background-color: hsl(265, 51%, 82%);
+	font-family: 'Comic Mono', 'Comic Sans MS', Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+span {
+	color: hsl(255, 15%, 15%);
+}
+
+h1 {
+	text-align: center;
+	margin: 2rem;
+}
+
+section {
+	background-color: hsl(191, 53%, 85%);
+	border: 2px solid hsl(193, 11%, 25%);
+	margin: 1rem auto;
+	padding: 0.5rem 1rem;
+	max-width: 60%;
+}
